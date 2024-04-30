@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=2DIxxQlB2SU&t=5s Bu videodaki aşamaları takip 
 
 Not:
 Veriler için ondalık ayraç olarak virgül kullanılmaktadır. 
-Bir yöntem ile hesaplama yaptığınızda tekrar başka bir yöntemle ya da aynı yöntemle yeniden hesaplama yapmak isterseniz bir önceki uygulamanın verilerinin hafızada kalmış olma ihtimaline karşın uygulamayı yeniden başlatmanızı öneririm.
+Bir yöntem ile hesaplama yaptığınızda tekrar başka bir yöntemle ya da aynı yöntemle yeniden hesaplama yapmak isterseniz bir önceki uygulamanın verilerinin hafızada kalmış olma ihtimaline karşın uygulamayı yeniden başlatmanız gerekebilir.
 
-Ayrıca moora yöntemiyle ilgili olarak https://www.youtube.com/watch?v=EDIuAQYkE1c'linkinde bulunan sabit yorumdaki uyarıyı dikkate alarak hesaplamanın doğru olup olmadığını kontrol etmenizi öneririm.
+Ayrıca moora yöntemiyle ilgili olarak https://www.youtube.com/watch?v=EDIuAQYkE1c'linkinde bulunan sabit yorumdaki uyarıyı göz önünde bulundurarak çıkan sonucu kontrol etmenizde fayda olabilir.
 
